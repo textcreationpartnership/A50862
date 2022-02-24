@@ -1,0 +1,411 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at the fvnerall of that reverend divine Mr. Robert Collard, batchlour in divinity and pastor of Chilton-Folliat in the county of Wilts fifty yeares, on the 9 of November 1648 by Iohn Millet ...</title>
+            <author>Millet, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 58 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50862</idno>
+            <idno type="STC">Wing M2069</idno>
+            <idno type="STC">ESTC R32091</idno>
+            <idno type="EEBO-CITATION">12321656</idno>
+            <idno type="OCLC">ocm 12321656</idno>
+            <idno type="VID">59485</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50862)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59485)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1017:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at the fvnerall of that reverend divine Mr. Robert Collard, batchlour in divinity and pastor of Chilton-Folliat in the county of Wilts fifty yeares, on the 9 of November 1648 by Iohn Millet ...</title>
+                  <author>Millet, John.</author>
+               </titleStmt>
+               <extent>[6], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hall ...,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title reads: A funerall sermon for Mr. Robert Collard.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Collard, Robert, d. 1648.</term>
+               <term>Funeral sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:59485:1"/>
+            <p>A SERMON PREACHED AT THE FVNERALL of that Reverend Divine M<hi rend="sup">r</hi> ROBERT COLLARD, <hi>Batchlour in Divinity and Paſtor of</hi> Chil<g ref="char:EOLhyphen"/>ton-Folliat <hi>in the County of</hi> Wilts fifty <hi>yeares, on the</hi> 9 <hi>of November</hi> 1648.</p>
+            <p>
+               <hi>By</hi> IOHN MILLET Maſter of Arts, and Miniſter of <hi>Alborne</hi> in the ſame County.</p>
+            <q>
+               <bibl>
+                  <hi>PROV. 10.7.</hi>
+               </bibl> The memoriall of the Juſt ſhall be bleſſed.</q>
+            <q>
+               <bibl>
+                  <hi>PSAL. 73.24.</hi>
+               </bibl> Thou ſhalt guide mee with thy counſell: and after<g ref="char:EOLhyphen"/>ward receive mee to glory.</q>
+            <p>
+               <hi>OXFORD,</hi> Printed, by <hi>Henry Hall, Anno Dom:</hi> 1652.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:59485:2"/>
+            <pb facs="tcp:59485:2"/>
+            <head>TO THE VERTVOVS, AND TRULY RELIGIOUS GENTLE<g ref="char:EOLhyphen"/>woman Miſtris IOANE COLLARD, Grace, Comfort, and Peace here, and evrelaſting happpineſſe hereafter.</head>
+            <opener>
+               <salute>DEARE COUSIN,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Know there are diverſe that will wonder at me, yea thoſe that know me beſt, that after many yeares ſpent in the Lords harveſt, I ſhould bring a few ſcattered eares, in ſuch a plentifull crop of all kind of fruitfull books, that are daily brought into the Lords barne, I queſtion not, but I muſt undergoe ſome cenſures of ſome that will ſay, they that are moſt learned are moſt loath to be ſeen in print, but the lawyers poſition ſhall be my apollogy that thoſe a<g ref="char:EOLhyphen"/>ctions that proceed from the paſſion of love, are not liable to law, at leaſt pardonable in reſpects, It was love to the reve<g ref="char:EOLhyphen"/>rend Divine deceaſed, that induced me to publiſh theſe me<g ref="char:EOLhyphen"/>ditations, for yours and mine, and others preparation to our deſolution: that through the weakneſſes we feele in our bo<g ref="char:EOLhyphen"/>dyes, and the examples of mortality before us continually, we may ſtudy <hi>Moſes</hi> Arithmeticke to number our dayes,
+<pb facs="tcp:59485:3"/>
+that we may apply our hearts to wiſdome.<note place="margin">Pſal. 90.12.</note> True it is, the fleſh is incloſed with many feares, forced to ſo many helps, ſo perplexed with its owne frailty, as the numbring of our dayes to be ſo ſhort, is not ſo difficult, being ſo unable whe<g ref="char:EOLhyphen"/>ther, we gaze abroad, or looke at home, to promiſe our ſelves any long immunity, either from the decayes, or deſolution of our mortall conſtitution, but to number our dayes as we ſhould is a very hard worke, ſeing the fleſh is inſnared with ſuch idle hopes of longer life, being blinded with wanton ſhews, buſied with deep deſignes, benummed with falſe de<g ref="char:EOLhyphen"/>lights, that for the moſt part of us we conſume our time, and conſider it not, we heap up ſin and feare it not, lie chayn<g ref="char:EOLhyphen"/>ed in death and wreſtle not againſt the ſting of it, ſlip into the grave, and perceive it not, wherefore if the Lord here doe caſt his cloudy countenance upon us, it is that we ſhould watch againſt the weakneſſe of our fleſh, which is then re<g ref="char:EOLhyphen"/>dieſt to ſleep when temptation is neareſt, yet if the ſtreame of temptation carry us into ſin, the Lord in his compaſſion cureth us, and yet in his love corrects us, if at any time he mingle our bread with care, and lodge us in the bed of diſ<g ref="char:EOLhyphen"/>comfort, yet being driven to any ſtrait, or exigent in this world, rather then we ſhall want heavenly conſolations it ſhall raine Manna, and rather then ove ſhall thirſt, the rockes ſhall yeild water, and our afflictions are but to weane us from the fleſh-pots of Egypt, and to advance in the way to Canaan: what though the wicked be like the bramble, who in confidence of their ſhadow dare challenge to be Kings over the trees of the forreſt, and our ſelves like ſheep, are ei<g ref="char:EOLhyphen"/>ther fleeced of the ſhearer when we are growne in wooll, or ſnatched up by the butcher when wee are growne in fleſh, yet when death hath made us both even with the earth, the grave ſhall be to us a fold till our great ſhepheard ſhall ap<g ref="char:EOLhyphen"/>peare, but to them a ſhambles, till the deſtroyer of their
+<pb facs="tcp:59485:3"/>
+ſoules ſhall have received an endleſſe commiſſion to tor<g ref="char:EOLhyphen"/>ment them: what cauſe then have we, to ſhut our gates againſt the gaſpes of death, or like trembling leaves to entertaine the gale or blaſt of Sickneſſe, which doth but prune our feathers, the more eaſily to fly towards our abiding city. Theſe thoughts of death to a mind mortified, and ſeaſoned with the feare, and ſeated in the favour off God, cannot chuſe but be welcome, though to the covetous and carnal wretch,<note place="margin">Mar. 5.17.</note> that hath all his deſires like the mole ſcraping in the earth, they ſhall fare as Chriſt did among the Gadarens to depart from them, when he was but coming neare them.</p>
+            <p>I have therefore preſumed, deare Couſin, from whom I have received ſo many volumes of bookes, thus farre to in<g ref="char:EOLhyphen"/>trench upon your modeſty, as having moſt right unto the ſame, to entreat you that this papery monument of your de<g ref="char:EOLhyphen"/>ceaſed Husband which ſtill lives in your heart, that it may be ſhadowed with your allowance, and accepted of me as a thankefull acknowledgement of the worth I knew in him being ſuch a maſterpiece for imitation that this carping, and iron age, that frowneth moſt on them that are freeſt from profaneſſe, could not but approve him, to be zealous of the truth of God, painfull in his calling, carefull of his flocke, peaceable and blameleſſe in his life, and comfortable and conſtant in his death.</p>
+            <p>Now that God which hath begun, and wrought many good things in you be pleaſed to direct you ſtill in every ſaving grace, that ſo in the end of your dayes you may re<g ref="char:EOLhyphen"/>ceive the end of your fayth even the ſalvation of your ſoule, which is the earneſt prayer of</p>
+            <closer>
+               <signed>Your affectionate couſin, and ſervant in the Lord, JOHN MILLEY.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:59485:4"/>
+            <pb n="1" facs="tcp:59485:4"/>
+            <head>A SERMON PREACHED AT the funerall of that Reverend Divine M<hi rend="sup">r</hi> ROBERT COLLARD.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PHILIPP: 1.23.</hi>
+                  </bibl> For I am on a ſtrait on both ſides, having a deſire to be looſed, and to be with Chriſt, which is beſt of all.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He nature of man at the firſt was full of grace the immediate way to glory, yea wanting nothing, having the earth for his garden, the ſea for his fiſhpond, the heavens for his Canopy, Angells for his aſſociates, the creatures for his willing Servants, the enjoyment of Gods love, and comfortable influences of his favour for his continuall recreations: which happy condition by his wilfull diſobedience he deprived himſelfe, and all his poſterity of, and by infringing Gods commandement he incurred his deſerved indignation, who there upon caſt him and all his iſſue into that fatall <hi>premunire, duſt thou art,</hi>
+               <note place="margin">Gen. 3.19.</note> 
+               <hi>and into duſt thou ſhalt returne.</hi> The experimentall effect of which doomefull ſentence, ſo long agoe preſaged in Paradice; all the ſons, and daughters of <hi>Adam</hi> have, and ſhall endure none excepted (ſave thoſe that ſhall be alive
+<pb n="2" facs="tcp:59485:5" rendition="simple:additions"/>
+at the glorious coming of Chriſt who ſhall be rapt up into the heavens and ever be with the Lord) elſe none excuſed, neither high nor low, noble, nor ignoble, learned, nor unlearned, rich nor poore, young nor old, male nor female, when death comes an <hi>affidavit</hi> will not ſerve the turne, a returne of a <hi>non eſt inventus</hi> will not be admitted, no common baile will be taken, no excuſes will be accepted, as he hath other buſineſſe, and cannot harken to this purſuivant, no ſure<g ref="char:EOLhyphen"/>ties, or intreaties of friends will prevent deaths unavoydable ſtroke, but yet the elect whoſe life is hid with Chriſt in God, are ſo farre from being afraid of his terrible meſſage,<note place="margin">Col. 3.3</note> that with <hi>Simeon</hi> they wiſh for a departure,<note place="margin">Luc. 2.29.</note> and with <hi>Paul</hi> here, they <hi>deſire to be diſſolved, and to be with Chriſt.</hi>
+            </p>
+            <p>The bleſſed Apoſtle having been in perills of the waters, in perills of robbers in perills of his owne nation,<note place="margin">2 Cor. 11.26.</note> in perills among the Gentiles, in perills in the city, in perills in the wilderneſſe, in perills in the ſea, in perills amoung falſe brethren, beſides his ſtoning, his ſcourging, his bonds, his nakedneſſe, and watchfulneſſe, no marvell if after all theſe, and other his ſuffrings he deſire to be looſed, and to be with Chriſt,</p>
+            <list>
+               <head>In the words, are five parts.</head>
+               <item>1 a deliberation full of perplexity, <hi>I am in a ſtrait betwixt two.</hi>
+               </item>
+               <item>2 a reſolution full of pitty, <hi>having a deſire.</hi>
+               </item>
+               <item>3 a reaſon if death be his choyce, its but Analyſis, <hi>a looſing.</hi>
+               </item>
+               <item>4 his aſſurance, <hi>he ſhall be with Chriſt.</hi>
+               </item>
+               <item>5 an Epiphonema, or concluſion determining his doubt, <hi>its beſt of all to be with Chriſt.</hi>
+               </item>
+            </list>
+            <p>
+               <note place="margin">Pet. 1.</note>
+               <hi>I am in a ſtrait.</hi> The Apoſtle imitates <hi>Moſes</hi> who ſets before Iſraell life and death, ſo <hi>Paul</hi> to himſelfe, he knew if he lived he lived in Chriſt,<note place="margin">Deut. 30.19.</note> if he died, death would be his advantage, yet he is on a ſtrait on both ſides, on the one ſide he ſets the ſervice of God, the ſpreading of the Goſpell, the converſion of ſoules to Chriſt, on the other ſide he ſets the ſalvation of his ſoule, he knew he ſhould be ſaved though he died not preſently, and the longer he lived, the more glory he ſhould bring to God, and be more profitable to his people, which makes him ſay in the next verſe its expedient I abide in the fleſh in reſpect of you,<note place="margin">verſ. 24.</note> howſoever he is in a ſtrait. obſerve the choyceſt ſervants of God while they are here are ſubject to many diſtractions,<label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>1</label> looke on <hi>David,</hi> though a precious man after Gods owne heart, yet
+<pb n="3" facs="tcp:59485:5"/>
+after his numbring the people, ſaith he, when the Prophet brought him his choice of three plagues,<note place="margin">2 Sam. 24.14. Eſay. 38.2.</note> I am in a wounderfull ſtrait<g ref="char:punc">▪</g> ſo <hi>He<g ref="char:EOLhyphen"/>zekiah</hi> aſſoone as the Prophet <hi>Eſaiah</hi> comes with an heavy meſſage, that he muſt ſet his houſe in order, and die, and not live, he turnes his face to the wall and weeps.</p>
+            <p>Our Saviour Chriſt, ſhall I ſay, he was perplexed, nay he was in an agony diſtracted on both ſides: on the one ſide mans redemption by his death ſhould be effected; on the other ſide if he died not, then the combat with Satan, and fleſh, and death ſhould not be broken off, nor they vanquiſhed: on the one ſide he looked if he ſuffered death, his owne innocency not deſerving it, together with ignomi<g ref="char:EOLhyphen"/>nious manner of dying, ſhamefully on the croſſe; on the other ſide if he died not, he ſaw the Scriptures could not be fulfilled, nor the law ſatisfied, nor his fathers wrath towards the elect pacified, yet notwithſtanding theſe ſtraits he reſolves it ſhall be not as he, but as his father will.</p>
+            <p>Becauſe diſtraction of mind at extraordinary matters befals both <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>1</label> the good and the bad, in the naturall man nature is in a great ſtrait, betweene the feare of death, and live's departure; he is diſtracted be<g ref="char:EOLhyphen"/>cauſe he ſhall looſe temporall things, yet ſometimes when ſhame, or Sorrow are incident to him, then he wiſheth for death, but yet ſet death and life before him, he will be out of meaſure perplexed. In the regenerate man nature and grace ſtrive for ſuperiority, nature ſhews to the dying man the love of his wife, children, and freinds, how dearely they have loved him, and how loath he ſhould be to part with them, and how greatly they will miſſe him; but grace ſhews him the love of his father in heaven, and how he goes to bet<g ref="char:EOLhyphen"/>ter friends, and ſhall meet his earthly ones when he ſhall never part from them; nature ſhews him the pleaſures of a forepaſſed life, which he may ſurfet with againe<g ref="char:punc">▪</g> but grace propoundeth to his view the joyes of a better life, nature ſets before his eyes the ugly forme of death, and the horrour, and painfulneſſe of it, dehorting him from embracing it, but grace ſhewes him the paſſage that is made by death to an heavenly Kingdome, encouraging him to die, nature looks ſtill backwards, grace lookes forwards, ſo that on both ſides you ſee the man is diſtracted.</p>
+            <p>Seconly, the beſt are diſtracted in reſpect of mans woefull eſtate <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>2</label> in himſelfe conſidered 1 in reſpect of himſelfe 2 in reſpect of God,
+<pb n="4" facs="tcp:59485:6"/>
+for himſelfe if he doe but with an impartiall view contemplate his owne naturall condition, looke into his mind there is abundance of ignorance, and impotency to receive knowledge, with an approbati<g ref="char:EOLhyphen"/>on of error rather then truth; looke into his conſcience it is pollu<g ref="char:EOLhyphen"/>ted, accuſing him, yea raging and falling mad with unbridled fury: Deſcend we to the affections, they are prone to rebellion, either ready to be inflamed with all the allurements of the world, or elſe their mo<g ref="char:EOLhyphen"/>tions towards goodneſſe are altogether irregular, like a palſy-mans motion which is alwaies inconſtant, if he looke to his ſins they are for quantity innumerable, for quality abominable, the leaſt of them being againſt an infinite God, deſerving hell fire: if he examine his whole life, what is it but an impious progreſſe, conſidering his infancy, youth, mid<g ref="char:EOLhyphen"/>dle age, old age, proſperity, adverſity, at home or abroad, his ſins of infirmity, preſumption, weakneſſe, or wilfulneſſe, of omiſſion, or commiſſion, againſt law, againſt Goſpel, againſt vowes, aginſt cove<g ref="char:EOLhyphen"/>nants, cannot chooſe but diſtract him. 2 In reſpect of God he may find how he ſtands affected againſt ſinners: 1 they are baniſhed para<g ref="char:EOLhyphen"/>dice, 2 the earth is curſed to them: 3 the devill hath ſtrong holds within them, and is intrenched in ſinners ſoules: 4 their bodies are ſub<g ref="char:EOLhyphen"/>ject to a thouſand deformities, infirmities, and diſeaſes: 5 they are liable to publike plagues, as wars, famines, peſtilence &amp;c. 6 God diſreſpects them while they are ſinners, no marvel then they are in ſtraights.</p>
+            <p n="3">
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ: </seg>3</label> 3 Becauſe here we live among innumerable devils, and diveliſh mind<g ref="char:EOLhyphen"/>ed men, which ſwarme every where, ſtill vexing, and perplexing the Saints: a man that knowes he muſt goe into the feild, and anſwer a challenge for his life, can take little reſt the night before, alas it is much more eaſy a thouſand times to fight with fleſh and bloud, then with principalities and powers, and ſpirituall wickedneſſe in high pla<g ref="char:EOLhyphen"/>ces, what need have wee of <hi>Pauls</hi> panoply to incounter them, <hi>Epheſ.</hi> 6.11.12.</p>
+            <p>Reproofe of thoſe that are in a ſpirituall ſlumber, that are ſenſible of <label type="milestone">
+                  <seg type="milestoneunit">Uſe: </seg>1</label> no ſtraits, the Prophet denounceth a woe to thoſe that are at eaſe in Zion, the barren Woman is not acquainted with thoſe throwes, and ſoundings,<note place="margin">Amos 6<g ref="char:punc">▪</g> 1</note> and convulſions as the breeding Woman is, they that are barren in grace feele not thoſe ſtraits, as they that have the image of Jeſus Chriſt bred in them, the Apoſtles paynes was indefatigable this way, ſaying, my little children of whom I travaile in birth againe till <hi>Chriſt</hi> be formed in you.<note place="margin">Gal: 4.19.</note> It's recorded by Mr <hi>Lattimer</hi> the Mar<g ref="char:EOLhyphen"/>tyr
+<pb n="5" facs="tcp:59485:6" rendition="simple:additions"/>
+in his Sermons on the Lords prayer, that coming to a Gentle<g ref="char:EOLhyphen"/>mans houſe demaunded of him, what ſtraits he had bin put unto all his life long, what afflictions he had indured: anſwered none; where<g ref="char:EOLhyphen"/>upon the goodman turnes to his ſervant, ſaying, <hi>Abeamus, Deus non eſt hic,</hi> let us be gone, for God is not here. It being a poſitive truth, that wee muſt through many tribulatons enter into the kingdome of God.<note place="margin">Act. 12.22</note>
+            </p>
+            <p n="2">2 To teach us to pray with <hi>David,</hi> ſaying, Turne thy face unto me,<label type="milestone">
+                  <seg type="milestoneunit">Uſe: </seg>2</label> and have mercy upon me, for I am deſolate, and in miſery,<note place="margin">Pſal. 25.16.</note> the ſor<g ref="char:EOLhyphen"/>rowes of my heart are inlarged, O bring me out of my troubles, looke upon my affliction &amp; my travaile, and forgive me all my ſins: and to imbrace the ſame Prophets method, when my ſpirit was in per<g ref="char:EOLhyphen"/>plexity within mee, and mine heart within me was amazed, then doe I remember the time paſt, I meditate in all the workes of thy hands, <hi>Pſal.</hi> 143.4.5.</p>
+            <p>To be ſenſible of our naturall corruption which caſts us into miſe<g ref="char:EOLhyphen"/>rable <label type="milestone">
+                  <seg type="milestoneunit">Uſe: </seg>3</label> plundges, and ſtraights, &amp; ſtrive to mortify it. O if we had ſight of our naturall corruption thereby, of our ſubjection to ſins, we would cry out againſt the intollerable burden of them, and ſay with the <hi>Pſalmiſt,</hi> they have ſo compaſſed me, and taken ſuch hold of mee,<note place="margin">Pſal. 38.4.</note> that I am not able to looke up; mine iniquities are gone over my head, &amp; as a weighty burden they are too heavy for me.</p>
+            <p>To teach us if we ſee our Brethren in ſtraights any manner of way,<label type="milestone">
+                  <seg type="milestoneunit">Uſe: </seg>4</label> not to deale with them in their ſorrowes, as Jobs freinds did with him,<note place="margin">Job. 16.2.</note> which proved miſerable comforters, and Phyſicians of noe value, it was a command in the Leviticall law, that a Kid ought not to be ſod in its mothers milke, which <hi>Philo Judaeus</hi> expounds thus,<note place="margin">Amos 6.6</note> Thou ſhalt not adde affliction to him that hath enough already, few remember the affliction of Gods Joſephs, to whom that of the Church may juſtly be retorted. Have you no regard all you that paſſe by, behold,<note place="margin">Lam 1.12.</note> and ſee if there be any ſorrow like unto my ſorrow, which is done unto me, O then paſſe no evill cenſure on Gods afflicted ones! but pray for them, that in all their troubles they may be more then Conquerours.</p>
+            <p>
+               <hi>I deſire.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Part. </seg>2</label> This is not a bare wiſh but a fervent and earneſt longing af<g ref="char:EOLhyphen"/>ter his diſolution <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, his heart was raviſhed above earth, and earthly obects,<label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>
+               </label> it was carried above the ſpheare of changable mor<g ref="char:EOLhyphen"/>tality to the jontemplation of his Creators ineſtimable glory. Hence note that the godly earneſtly deſire to be freed fro<g ref="char:cmbAbbrStroke">̄</g> fleſhly bonds to be with the Lord. Thus <hi>David,</hi> like as the Hart deſireth the water brooks,
+<pb n="6" facs="tcp:59485:7"/>
+ſo longeth my ſoule after thee O God:<note place="margin">Pſal. 42.1.</note> ſo <hi>Simeon,</hi> Lord now letteſt thou thy ſervant depart in peace according to thy word, <hi>Luc.</hi> 2.29.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ: </seg>1</label> Becauſe here they want the glorious preſence of their God, they cannot here enjoy the fellowſhip of their beſt freinds, while wee are preſent in the body, we are abſent from the Lord: this ſhould move us to deſire death: ſhall wee more eſteeme this wretched carkaſſe then our gracious God, whoſe only preſence in glory ſhall fill us with eternall delight: who would be with-held from the ſociety of innumerable Angels? alas the moſt of us have not ſo much here as one entire and faithfull freind, if we had many what were it, to the incomparable fellowſhip of the Saints, who will be glad of us, and entertaine us with unwearied delight, if we were throughly apprehenſive hereof, we would thinke every <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hower a yeare, till wee were with them ſinging, and prayſing the Lord to all eternity.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ: </seg>2</label> Becauſe wee are here but maimed, and deformed creatures, and can have noe ſolid contentment, we ſhall never have a ſound underſtand<g ref="char:EOLhyphen"/>ing till wee be at heaven, our holineſſe will never be compleat till we are dead, let a man live a thouſand yeares here, yet his heart will be unſatiable, his appetite will be alwaies craving one thing or other.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ: </seg>3</label> This deſire of death diſtinguiſheth betweene the righteous, and the wicked, who are in love with this life: it's true both jump in the affection of deſiring death, but they differ in the manner and end thereof. The wicked deſire it with importunity, or elſe prefix God a time, or elſe they will deſtroy themſelves, and they doe it; either becauſe they are aſhamed to live any longer, or elſe to prevent dan<g ref="char:EOLhyphen"/>ger like to befall them, or elſe to avoyd the perpetuall ſtingings of their corroding conſciences, forgetting that of the Poet:
+<q>Cura non ipſa in morte relinquunt.</q>
+But none of theſe can induce the godly to deſire death, for they being wrapt up in an extaſy at the contemplation of the joyes of a better life, deſire after them, but yet they ſtay the Lords leiſure, ſubordinating their will to the Lords will, I honour <hi>Paul</hi> for his reſolution, but more for ſtaying the Lords pleaſure.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ: </seg>4</label> Becauſe as long as they live they diſpleaſe God, who would deſire to live here to offend God, to greive his Spirit though this reaſon be little perſuaſive to wicked men yet it's prevalent with the godly, who ac<g ref="char:EOLhyphen"/>count Gods loving kindneſſe better then life it ſelfe, &amp; find nothing ſo bitter as to diſpleaſe him, how much th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n ſhould wee deſire to be rid
+<pb n="7" facs="tcp:59485:7" rendition="simple:additions"/>
+of that condition, wherein we ſtill provoke the Lord, and to be where wee ſhall anger him noe more.</p>
+            <p>Becauſe this life is a pilgrimage in which is uncertainty, <hi>Gen.</hi> 47.9.<label type="milestone">
+                  <seg type="milestoneunit">Reaſ: </seg>5</label> It is a flowre in which is mutability, <hi>Iſay.</hi> 40.7. It is a ſmoake in which is vanity, <hi>Pſal.</hi> 102.3. it is a Weavers ſhuttle in which is volubility <hi>Job.</hi> 7.6. it is a Shepheards tent in which is variety <hi>Iſay.</hi> 38.12. It is as a ſhip on the ſea, ſtill paſſing away, a vapour: <hi>Jam.</hi> 4.14.</p>
+            <p>Laſtly, becauſe then they are freed from evills to come, <hi>Iſay.</hi> 57.1.<label type="milestone">
+                  <seg type="milestoneunit">Reaſ: </seg>6</label> for we know not what further troubles may be on us, or on the Church, therefore the Lord tels <hi>Joſiah</hi> he will take him away, that he ſhould not ſee the calamities that ſhould come upon Iſrael 2 <hi>Kings</hi> 22.20.</p>
+            <p>For reproofe of thoſe which tremble and quake with <hi>Faelix,</hi> if they <label type="milestone">
+                  <seg type="milestoneunit">Uſe </seg>1</label>
+think or heare of death, but it will be ſayd, <hi>Hezekiah</hi> mourned when he ſhould die, and <hi>David</hi> ſayth: let my ſoule live and it ſhall praiſe thee, and Chriſt ſaith, let this cup paſſe from me: I anſwere, <hi>Hezekiah</hi> did ſo, becauſe at this time he had not received the promiſed iſſue to ſucceed him: <hi>David</hi> becauſe he was in a great temptation, and if he had then died, his enimies had triumphed: And Chriſt becauſe he ſhould die the ſhamefull death of the croſſe, as Divines ſuppoſe theſe did ſo.</p>
+            <p>For information: ſince the wicked love this life, and feare death <label type="milestone">
+                  <seg type="milestoneunit">Uſe </seg>2</label> they prophecy to themſelves a future bad eſtate, the Sadduce is loath to die becauſe he feares he ſhall not be, the Epecure feares to die becauſe he ſhall looſe his pleaſures, the wicked feares to die becauſe he knowes he ſhall worſe be, if it were a ſleep who would feare to take his reſt, if it were an annihilation of the <hi>totum cumpoſitum</hi> as ſome thought, or that it made men inſe<g ref="char:cmbAbbrStroke">̄</g>ſible, who would feare that which one cannot feele, therefore this feare of death in the wicked, doth preſage ſome ſtrange torment to thoſe men, whereof they have a taſte already before they die, like <hi>Saules</hi> ſpirit which vext him before his death.</p>
+            <p>To deſire death but with theſe limitations 1 To reſigne our will to <label type="milestone">
+                  <seg type="milestoneunit">Uſe </seg>3</label> the Lords will: 2 For the manner, not to be out owne carvers, but to embrace what Meſſenger the Lord will ſend for us: 3 To be diſ<g ref="char:EOLhyphen"/>burdened of the weight of ſin: 4 That we may enjoy the new Jeruſalem.</p>
+            <p>
+               <hi>Ob:</hi> Is it not lawfull to deſire death to avoide miſeries here? elſe why did <hi>Jonah</hi> deſire to die, and <hi>Moſes</hi> to be razed out of Gods booke, and <hi>Job,</hi> and <hi>Eliah:</hi> what availeth it me to live? <hi>Sol.</hi> In <hi>Jonah</hi> it was a note of impatience, yet I thinke theſe deſires are not ſimply
+<pb n="8" facs="tcp:59485:8" rendition="simple:additions"/>
+unlawfull if they ſubmit themſelves to the will of God, thus, I am troubled with a lingering diſeaſe, or I am in priſon, I would be freed by death if the Lord ſaw it fit, I ſuffer many troubles here, I would faine go to heaven, if the Lord would ſend his Embaſſador for me, thus <hi>Job, Elias,</hi> others did.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Uſe: </seg>4</label> For comfort to them which have good conſciences, they may be willing to die: he which knowes himſelfe to have a grant of his life in the land of the living at his great Landlords hands, I ſee no reaſon but he ſhould deſire death, but he that hath no aſſurance by the Spirit, of a better life hereafter, he may leave the world grudgingly, and feare this king of feares more then all the terrours of this life, he had rather to be ſicke, and cold, &amp; poore, and hungry, and beg, then dy, becauſe he knowes what he ſuffers here, but knowes not what he ſhall ſuffer hence: he hath not learned <hi>Chriſt</hi> yet, as <hi>Paul</hi> did, for no man eſtemes this life, when he reliſheth the other to any purpoſe. For then the love of this world fals from him, as <hi>Elias</hi> mantle when he went up to heaven: <hi>Paul</hi> indeed had ſeen many good things in his daies, and was never ſatisfied, being willing to dy, he thirſted ſtill, but no water could quench his thirſt, but the water of life: riches, honors, plea<g ref="char:EOLhyphen"/>ſures; doe not make the elect willing to dy, but their deſires breed; in them an unreſt untill they be looſed: which is my third part</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Part. </seg>3</label>
+               <hi>To be looſed.</hi> Death hath among the ancients many deſcri<g ref="char:EOLhyphen"/>ptions, it is called the privation of naturall life, The Philoſo<g ref="char:EOLunhyphen"/>phers ſtiled it an eternall ſleepe, as they fooliſhly dreamed, ſome o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them called it the feare of rich men, the deſire of poore men, an inevi<g ref="char:EOLhyphen"/>table event, an uncertaine pilgrimage, the robber of mankind, a com<g ref="char:EOLhyphen"/>mon fate, the paſſage of life, the departure of the living; but <hi>Pa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> here calls it, a diſſolution; for as life is nothing but an union or combi<g ref="char:EOLhyphen"/>nation of the ſoule to the body, ſo death is a parting betweene them<g ref="char:punc">▪</g> obſerve that death to the elect is nothing but a looſing.<label type="milestone">
+                  <seg type="milestoneunit">Doct: </seg>3</label> So <hi>Solomon Eccleſ.</hi> 12.7. the body returnes to the duſt, and the ſpirit to <hi>God</hi> th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> gave it: thus <hi>Paul</hi> ſaith, we know that if our earthly tabernacle be di<g ref="char:EOLhyphen"/>ſolved, we have a building made without hands eternall in the heaven<g ref="char:punc">▪</g>
+            </p>
+            <p n="1">1 Becauſe our bodies here are earthly houſes, whoſe foundation<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ: </seg>1</label> not of marble, whoſe walls are not of braſſe, whoſe gates are not <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> iron, but of clay, which as they were quickly framed, ſo are quickly diſolved into their firſt principles.</p>
+            <p n="2">
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ: </seg>2</label> 2 Becauſe then the godly is looſed from this life, and hath no more
+<pb n="9" facs="tcp:59485:8" rendition="simple:additions"/>
+ſociety with them that are upon the earth, he ſhall no more come to his houſe, neither ſhall his place know him any more, for the ſoule, it's, looſed from the body till the day of reſurrection, then like old acquain<g ref="char:EOLhyphen"/>tance they rejoyce together for ever, yea death to the godly may be called a looſing or diſolution in foure regards.</p>
+            <p n="1">1 Becauſe the elect then are looſed from all their ſtrong tem<g ref="char:EOLhyphen"/>peſts, and croſſes, and labours here they meet with, bleſſed are the dead which dye in the Lord, for then they reſt from their labours <hi>Rev.</hi> 14.13.</p>
+            <p n="2">2 Becauſe the day of their looſing, is the day of receiving their wages,<note place="margin">Job 7.2.</note> not of merit, but of mercy, then God will pay to every godly man his peny: doth not the hirling long to receive his wages for his daies work.</p>
+            <p n="3">3 Becauſe the day of their diſolution is their birth day, their day of freedome and coronation: a birth day, becauſe it is the begining of their everlaſting joy: therefore it is miſcalled when we ſay, it is our laſt day: beſides it's our day of coronation, when we ſhall have <hi>Pauls</hi> incorruptible crowne, and <hi>Peters</hi> crowne that never fades away put upon us; it's our day of freedome, for then the ſoule is looſed out of a dungeon, for the body in this life is but a lothſome priſon of reſtraint, wherein the ſoule cannot be free to the exerciſe of it ſelfe, either in naturall or ſupernaturall things: for the body ſo domineers by ſences, and ſo fiercely caries by appeties the ſame, that the ſoule is compelled too often to ſatisfy bodily luſts: yea the body is a darke pri<g ref="char:EOLhyphen"/>ſon ſhutting up the light of the ſoule, as a darke cloud doth the light of the ſun, or as the interpoſition of the earth maketh it night: which made <hi>Paul</hi> cry out,<note place="margin">Rom. 27.</note> O wrethed man that I am who ſhall deliver me from this body of ſin: now death doth but as a ſtrong wind diſſolve this cloud, that the Sun of <hi>Chriſts</hi> image in the Soule may ſhine clear<g ref="char:EOLhyphen"/>ly, nay it pulls downe the walles of this ſtinking bodily priſon, that the ſoule may receive ſome freſh ayre in the open light of glory, or elſe the liberty of the ſoule may appeare thus, this world is a ſea, our lives are like ſo many galleys toſt with continnuall ſtormes, our bodies like Gally-ſlaves put to hard ſervice by the great Turke the devill, who ty<g ref="char:EOLhyphen"/>rannically doth command hard things now the ſoule like the hart of ſome gally-ſlave may be free ſo as to loath that bondage, &amp; inwardly to deteſt that tyrant, but ſo long as it is fettered to the body, it cannot get away, now death comes like an unreſiſtable Gyant, and carries the gallies to the ſhore, and diſolves them, and lets the ſoules the
+<pb n="10" facs="tcp:59485:9"/>
+priſoners looſe from their bodies. Thirdly, death as it is the diſſolu<g ref="char:EOLhyphen"/>tion of the body, ſo it's the abſolution of the ſoule, and in this reſpect it's their ſolemne funerall day, for death is the funerall of all their vices, ſins, and imperfections, and the reſplendent, and orient ſpring time of all their vertues, death was the daughter of ſin, and in death ſhall be fullfilled: the daughter ſhall deſtroy the mother, we ſhall never more then be infected with ſin, nor troubled with frantick humours, nor moleſted with paſſionate jelouſies, and diſcontents, nor puft up with the ulcerous tumours of pride, death ſhall cure us perfectly of all maladies anguiſhes from which it's impoſible to be cured in this tran<g ref="char:EOLhyphen"/>ſitory life; yea then ſhall be a glorious reſurrection of our graces, our knowledge ſhall be perfect, our love compleat, but our faith and hope ſhall vaniſh away, becauſe then wee ſhall receive the end of our faith even the ſalvation of our ſoules.</p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Uſe: </seg>1</label> 1 For terrour to the wicked whoſe death is not a looſing, and there<g ref="char:EOLhyphen"/>fore very fearfull for them, they have moſt cauſe to mourne, their birth was bad, their life worſe, their departure worſt of all; for they ſhall ſeeke death and it ſhall flee from them, for theirs is a death without a death,<note place="margin">Rev. 9.6.</note> an end without an end, a defect without a defect; for their death ſhall allwaies live, their end ſhall alwais begin, and their defects ſhall never faile, it will little availe the man out of <hi>Chriſt</hi> to cry on his death bed, O lamentable ſtate of mine! now I am going to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> place where my eyes ſhall ſee but lamentable ſpectacles, mine eare ſhall heare nothing but woe woe, woe without end, it ſhall be no-purpoſe for them then deſperately to ſay, O earth why dideſt thou not ſwallow me! O mountains why did you not hide me from the preſence of that <hi>Judge</hi> whoſe Goſpell I have conte<g ref="char:cmbAbbrStroke">̄</g>ned, whoſe <hi>Miniſters</hi> I have reviled, whoſe <hi>Sabbaths</hi> I have prophaned, whoſe patience I have abu<g ref="char:EOLhyphen"/>ſed! O you bewitching pleaſures, how have you brought me to the torments of hell, whence I ſhall never be freed, where the worme ne<g ref="char:EOLhyphen"/>ver dies, and the fire never goes out.</p>
+            <p>
+               <hi>Ob.</hi> Wicked will ſay they have knowne many bad men die like Lambes, and good men have died unquietly.</p>
+            <p>
+               <note place="margin">Mar. 9.44.</note>
+               <hi>Sol.</hi> What doe wicked dy like Lambs? Nay rather Naball-like as ſlaves, as they lived a ſottiſh &amp; ſenceleſſe life, ſo a ſenceleſſe death they died; &amp; what though, the godly went by the gates of hell to the king<g ref="char:EOLhyphen"/>dom of heaven? by reaſon of the extremity of their deſeaſe fuminng up into their braine, they might ſpeake they knew not what, but
+<pb n="11" facs="tcp:59485:9" rendition="simple:additions"/>
+mans changeable tongue cannot alter Gods unchangeable decree, touching the ſalvation of his, peradventure the apprehenſion of Gods verity againſt ſin might make them ſay, <hi>my God my God why haſt thou forſaken mee:</hi> but know this, he never dies ill that lives well, we muſt judge men by their lives, &amp; not any by their behaviour at their deaths.</p>
+            <p>To groane within our ſelves and to wait for the adoption of our <label type="milestone">
+                  <seg type="milestoneunit">Uſe: </seg>2</label> bodies, looking for our Saviour, who ſhall <hi>change our vile bodies,</hi>
+               <note place="margin">Phil: 3.20</note> 
+               <hi>and make them like his glorious body.</hi>
+            </p>
+            <p>
+               <hi>Ob:</hi> How ſhall I be prepared for my looſing? firſt, in your life time take away the ſting of deathe, which is ſin: ſecondly, thinke no<g ref="char:EOLhyphen"/>thing more certaine then death, though nothing more uncertaine for place, time, and manner: fourthly learne to die by little and lit<g ref="char:EOLhyphen"/>tle, that ſo when the Lord calls, you may ſweetly, and comfortably depart this life; ſaying, Lord I am not afraid to die, nor aſhamed to live: In my life thou haſt protected me, in my death thou wilt receive mee.</p>
+            <p>
+               <hi>Ob:</hi> Muſt I in my youth, and ſtrength learne to die? will it not be time enough to have ſuch thoughts when I am old? But I demaund, will you wound your ſelfe to try the Chyrurgions skill? Will you ſin in your youth? that you may repent in your old age: Shall the devill have the flowers of your time? and the Lord the weeds: Shall the devill have the wine? and God the dregs: as the faſhion of many is, when as ſome ſay, a man cannot repent too late, I am ſure a man can<g ref="char:EOLhyphen"/>not repent too ſoone; and wofull experience witneſſeth late repen<g ref="char:EOLhyphen"/>ance is ſeldome true.</p>
+            <p>Here's a three fold comfort to the elect, concerning their looſing:<label type="milestone">
+                  <seg type="milestoneunit">Uſe: </seg>3</label>
+            </p>
+            <p>Firſt, it's putting of their old cloathes, it s but to remove out of an old houſe, it's but as ſeed caſt into the ground: For the firſt, in this life, we are clothed with rotten ſoul-garments, which death doth ſlip us off, and cloath us with the garments of ſalvation, more ſumptuous then <hi>Solomons</hi> rich attire: to deſire to go to heaven, and not to be diſolved, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s to deſire to put on new clothes, without putting of our old, Se<g ref="char:EOLhyphen"/>condly the Apoſtle compares our bodies to old mudwalled houſes, to a rotten tent, and our heavenly eſtate, to a moſt glorious,<note place="margin">2 Cor. 5.1.</note> and Princely Palace, made by the moſt curious workman that ever was; it is ſuch an edifice that will never be out of repaire. Now for a godly man to die, is but to remove from an old rotten houſe ready to fall, to a ſtately Palace, Doth that Landlord offer his tenant any hard mea<g ref="char:EOLhyphen"/>ſure,
+<pb n="12" facs="tcp:59485:10" rendition="simple:additions"/>
+that will fetch him out of his baſe cottage, and beſtow upon him his owne mannor houſe? Noe other thing doth God to us, when by death he removes us out of our earthly tabernacles to ſettle us in his everlaſting habitation. Thirdly our boddies are as ſeed, a man which had never ſeen the experience of it, perhaps would have thought, that the ſeed caſt into the ground had been ſpoiled: but nature having ſhewed the returne of the graine with advantage, a man can eaſily be cured of this folly, the bodies of the <hi>Saints</hi> are Gods choiceſt ſeed, and what doth death more, then caſt it into the earth: We may be aſſu<g ref="char:EOLhyphen"/>red as the grain, ſo our bodies ſhall riſe more flouriſhing, and beauti<g ref="char:EOLhyphen"/>full then before: For ſix things ſhall befall them; 1 incorruptible<g ref="char:EOLhyphen"/>neſſe; 2 immortality; 3 ſpiritualneſſe; 4 ſplendor; 5 immunity from weakeneſſe; 6 enjoyment of happineſſe in every member: In all theſe reſpects,<note place="margin">Pſal. 116.15.</note> we may then ſay with <hi>David, precious in the ſight of the Lord is the death of his Saints;</hi> their death is no death, but a looſing, a diſſolution: for immediatly upon the ſeparation of the ſoule from the body, they are with <hi>Chriſt.</hi>
+            </p>
+            <p>
+               <note place="margin">Pat. 4.</note>
+               <hi>To be with Chriſt:</hi> a Chriſtian cannot chuſe but by faith be aſſur<g ref="char:EOLhyphen"/>ed, that death being a diſſolution, will open a gapp for him, to come into the ſweet embracements of <hi>Jeſus Chriſt; Paul</hi> knew that immediatly upon his departure, his ſoule ſhould be tranſported into <hi>Chriſts</hi> armes.</p>
+            <p>Here obſerve that the Godly immediately after their departure are with <hi>Jeſus Chriſt:</hi> thus <hi>Job</hi> in ſignificant termes could prognoſti<g ref="char:EOLhyphen"/>cate, ſaying, <hi>I know that my Redeemer liveth;</hi> and that lie ſhall ſtand the laſt day upon the earth,<note place="margin">Job. 19.25.26.</note> and though wormes devoure my fleſh, yet I ſhall ſee God in my fleſh, not with other, but with my owne eyes. What donative could <hi>Chriſt</hi> better beſtow upon the penitent Theife, then, <hi>this day thou ſhalt be with me in Paradice:</hi> what thing of mony-price could <hi>Steven</hi> deſire to have?<note place="margin">Luc. 23.43</note> then to <hi>behold Chriſt ſitting at the right hand of his Father;</hi> what better promiſe of mercy, could <hi>Chriſt</hi> at his departure give unto his perplexed ſervants? then, <hi>I goe to pre<g ref="char:EOLhyphen"/>pare a place for you,</hi>
+               <note place="margin">Joh. 14.2, 3.</note> 
+               <hi>and if I goe to prepare a place for you I will receive you unto my ſelfe, thatwhere I am, you may be alſo.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>1</label> Becauſe <hi>Chriſt</hi> prayed it might be ſo, and <hi>Chriſts</hi> prayer muſt needs have a gracious hearing, and acceptance in his Fathers preſence; for what thing did <hi>Chriſt</hi> with more earneſtneſſe of Spirit beg of his Fa<g ref="char:EOLhyphen"/>ther? when he was about to leave the world, then this, ſaying,
+<pb n="13" facs="tcp:59485:10"/>
+               <hi>Father I will that they alſo which thou haſt given me,</hi>
+               <note place="margin">Joh: 17.24, 25.</note> 
+               <hi>be with me where I am, that they may behold the glory, that thou haſt given mee, and that the love wherewith thou haſt loved them may be in them, and I in them.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>2</label>
+            </p>
+            <p>Becauſe the faith of the Elect, ſtill beates upon this their being with <hi>Chriſt,</hi> for unleſſe we aſcend up to him, as he deſcended downe to us; his deſcending was in vain, becauſe he came down to us, that we might aſcend up to him; he diſcended to take our fleſh, that we might aſcend to take poſſeſſion of his kingdome, he deſcended to be crucified, we aſcend to be glorified; he deſcended to this world, which is an hell in reſpect of his heavenly habitation, we aſcend to heaven, to joy, to our <hi>Father,</hi> our <hi>Saviour,</hi> to <hi>Angels,</hi> to <hi>Saints;</hi> we ſee <hi>Paul</hi> had good cauſe to deſire <hi>to be diſolved and to be with Chriſt.</hi>
+            </p>
+            <p>This is the happy end after all our ſorrows to be with <hi>Chriſt; I was,</hi> ſaith <hi>Paul, thrice beaten with rods I ſuffred thrice ſhipwracke &amp;c.</hi>
+               <note place="margin">2 Cor. 11.24.</note> no marvell then though <hi>Paul deſire to be with Chriſt,</hi> ſince this is the happineſſe <hi>Chriſtians</hi> after they have ſailed over the trouble<g ref="char:EOLhyphen"/>ſome waves of this life, then <hi>Chriſt</hi> will receive them into his comfortable harbour, and refreſh them with the joy of his counte<g ref="char:EOLhyphen"/>nance; I dare ſay if <hi>Chriſt</hi> and his Children were in hell, hell would would be no hell, nay which is more, heaven would be no heaven, were it not for the amiable reflections of love, which proceed from <hi>Chriſt</hi> to his beloved ones: O if <hi>Peter</hi> at the transfiguration of <hi>Chriſt,</hi> having but a glimpſe of his glory, cried out, <hi>Maſter it is good to be here,</hi>
+               <note place="margin">Luc: 9.33.</note> how much more would he be raviſht, when he ſaw his heavenly glory?</p>
+            <p>Becauſe the diſſolution of the ſoule from the body,<label type="milestone">
+                  <seg type="milestoneunit">Reaſ: </seg>4</label> cauſeth a con<g ref="char:EOLhyphen"/>junction of the ſoule with <hi>Chriſt,</hi> which made the <hi>Apoſtle</hi> confident in this, that the godly, had rather be <hi>abſent from the body,</hi>
+               <note place="margin">2 Cor. 5.7 8.</note> 
+               <hi>and ſo preſent with the Lord,</hi> then to be preſent in the body and abſent from the Lord.</p>
+            <p>Becauſe <hi>Chriſt</hi> hath by his death perfumed the grave to his,<label type="milestone">
+                  <seg type="milestoneunit">Rea. </seg>5</label> and taken away the force of death, <hi>Chriſt</hi> hath overcome the devill, that his Children might do ſo; even overcome him,<note place="margin">Heb: 2.14.</note> that had the power of death, even the devill: <hi>Chriſt</hi> ſubdued that ſtrong man, that his might conquer him; this being ſo, the godly whoſe life <hi>is hid with Chriſt in God,</hi> need not be appaled at the meſſage of deathe,<note place="margin">Col. 3.3. Hoſ. 13.14.</note> but may in a triumphant manner ſay, <hi>O death I will be thy death, O grave where is thy diſtruction!</hi> for <hi>Chriſt</hi> hath deliver'd us from the hurt, &amp; ſting of death.</p>
+            <p>Reproofe of the Papiſt-purgatory, which it ſeemes was not found <label type="milestone">
+                  <seg type="milestoneunit">Uſe. </seg>1</label> out in <hi>Pauls,</hi> but you muſt know your purgatory, is like your pian<g ref="char:EOLhyphen"/>ted
+<pb n="14" facs="tcp:59485:11"/>
+ſepulchers, framed more for the living, then the dead, ſeing the Locuſts of Rome live by trentals, and dirges, and maſſes for the dead, as the Silver-ſmith of Epheſus lived by Images; the Papiſts are loth the purgatory-fire ſhould be quenched, for it is the gainfulſt lye in all popery, which hath brought moſt of the goods of Europe to the Popes Coffers, to be rid as they dreamed out of purgatory, after ſo many yeares, by maſſes and ſupererogate workes of others; as if the Scripture had never ſaid, <hi>the juſt ſhall live by his owne faith,</hi> and that <hi>he that beleiveth ſhall not goe into judgment,</hi>
+               <note place="margin">Joh. 5.24.</note> 
+               <hi>but ſhall paſſe from death to life;</hi> and that <hi>they that dye in the Lord ſhall reſt from their labours.</hi> How doe they reſt if they ſtay at purgatory?<note place="margin">Job. 5.24.</note> which fantaſticall ficti<g ref="char:EOLhyphen"/>on the Papiſts themſelves cannot agree about the ſituation of it, for ſome ſay it is in the aire, ſome ſay it's placed in the earth, ſome ſay it's a little above hell, ſome ſay it's in the middle region, whereas it's a meere <hi>Chymara,</hi> an <hi>Individuum vagum,</hi> that which hath no eſſence or exiſtence at all.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Uſe. </seg>2</label> Comfort to the Elect, that they ſhall be with <hi>Chriſt;</hi> in two reſpects: Firſt againſt the troubles of this life, we may ſay with <hi>Paul, Rom.</hi> 8.33.34. to the end of the Cap. Secondly againſt the terrible day of judgment, they may expoſtulate with their owne ſoules, as ſoone as I dye I ſhall be with <hi>Chriſt,</hi> for all my hope, and affiance is in his love, his paſſion is my payment, his bloud my purgation, his ſacri<g ref="char:EOLhyphen"/>fice my ſatisfaction, his death my life, he is my wiſdome, righte<g ref="char:EOLhyphen"/>ouſneſſe, ſanctification, and redemption 1 <hi>Cor.</hi> 1 30.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Uſe. </seg>3</label> To imitate <hi>Chriſt</hi> here, then we ſhall be like him hence, not to follow him in the acts of his Divinity as the Papiſt fondly imagine, but in ſuffering with him, if we be like him in his humiliation, we ſhall be like him in his exaltations; our imitation of him muſt be ana<g ref="char:EOLhyphen"/>logically not properly in patience, humility, love, willing reſig<g ref="char:EOLhyphen"/>nation of our ſelves into his Fathers hands, thus doing, he will not refuſe us when we dye, when we ſhall not only ſee him as he is, but ſhall reigne with him in glory, <hi>which is beſt of all:</hi> which is my laſt part.</p>
+            <p>
+               <hi>Which is beſt of all;</hi> this is <hi>Pauls</hi> verdict, or ſentence, upon his deliberation concerning life and death, this is the upſhot of all his private diſputation betweene his fleſh, and his ſpirit, betweene na<g ref="char:EOLhyphen"/>ture, and grace, between his doeing good in his miniſtery, and his receiving his wages:<label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>5</label> 
+               <hi>it's beſt of all to be with Chriſt.</hi> Note hence that a Chriſtians beſt content is to be in heaven. Thus <hi>David, O God my
+<pb n="15" facs="tcp:59485:11"/>
+heart longeth after thee, as a barren and dry land where no water is:</hi>
+               <note place="margin">Pſal. 63.1.</note> againe, <hi>how excellant is thy mercy? O God! therefore the children of men doe truſt under the ſhadow of thy wings, they ſhall be ſatisfied with the fatneſſe of thy houſe, and thou ſhalt give them drinke out of the rivers of thy pleaſures;</hi> the reaſon is, <hi>for with thee is the well of life, and in thy light ſhall wee ſee light Pſal.</hi> 36.7.8.9.</p>
+            <p>Becauſe there is Gods preſence, <hi>There is fullneſſe of joy, and in his pre<g ref="char:EOLhyphen"/>ſence <label type="milestone">
+                     <seg type="milestoneunit">Reaſ, </seg>1</label> pleaſures for evermore, Chriſt</hi> ſaith, <hi>Bleſſed are the pure in heart,</hi>
+               <note place="margin">Mat 5.8.</note> 
+               <hi>for they ſhall ſee God:</hi> and <hi>David</hi> was raviſhed with this meditation, <hi>bleſſed are they that dwell in thy houſe Pſal.</hi> 84.6.</p>
+            <p>Becauſe this is abſolutly the beſt good, otherthings are good as they <label type="milestone">
+                  <seg type="milestoneunit">Reaſ, </seg>2</label> have reference to this onely good, many things are good only in appea<g ref="char:EOLhyphen"/>rance, becauſe men in their deluded judgments imagine them good, but his is <hi>beſt of all, quia omne bonum terminatur in hoc bonum,</hi>
+               <note place="margin">Bern.</note> 
+               <hi>quod eſt ama<g ref="char:EOLhyphen"/>bile ſupra omnia bona:</hi> other things are good, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſome reſpects, but this <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> without any exception, this is the one thing only neceſſary.</p>
+            <p>
+               <hi>It's beſt of all;</hi> Becauſe there is no intermixtion of dolorous effects,<label type="milestone">
+                  <seg type="milestoneunit">Reaſ, </seg>3</label> or ſoule wounding temptations, for there wiſdome ſhines without ig<g ref="char:EOLhyphen"/>norance, memory without forgetfulneſſe, underſtanding without errour, and reaſon without obſcurity: there the elect ſhall have cer<g ref="char:EOLhyphen"/>taine ſecurity without diſpoſſeſſion, ſecure tranquillity without in<g ref="char:EOLhyphen"/>terruption, happy eternity without the intervenience of diſmall oc<g ref="char:EOLhyphen"/>currents, or croſſing accidents to affright them.<label type="milestone">
+                  <seg type="milestoneunit">Reaſ, </seg>4</label>
+            </p>
+            <p>Becauſe the ſoule ſhall then ſhine moſt gloriouſly, which here in the body is obſcured, the luſtre whereof I will adumbrate by this compariſon; as a candle while it is in the Lanthorne it gives a good light and enlightneth the Lanterne it ſelfe, and if it be taken out though the Lanthorne be left darke, yet the candle ſhines more clear<g ref="char:EOLhyphen"/>ly then it did before; ſo while the ſoule is in the body,<note place="margin">Lactantius</note> it is the light and governer thereof, and when by death it bids the body adiew, although the body be left dead, and inſenſible, yet then the ſoule enjoyes her proper vigour and brightneſſe; then the Image of God ſhines perfectly in it, for then the underſtanding is repleniſhed with the knowledge of God, which is immediatly revealed unto it; then the will alſo perfectly obeyeth God and all the affections are ſo pu<g ref="char:EOLhyphen"/>rified, that there is a ſweet melodious harmony betweene the faculties of the ſoule to praiſe the Lord for evermore.</p>
+            <p>
+               <hi>It's beſt of all;</hi> in reſpect of the variety, and perpetuity of the <label type="milestone">
+                  <seg type="milestoneunit">Reaſ, </seg>5</label>
+               <pb n="16" facs="tcp:59485:12"/>
+Elects joy, which they ſhall have with <hi>Chriſt, which neither eye hath <label type="milestone">
+                     <seg type="milestoneunit">Rea. </seg>5</label> ſeen, nor eare hath heard, neither entred into the heart of man, to conceive the good things that God hath layd up in ſtore for them that love him:</hi> the eye hath not ſeen it, becauſe it is noe colour; the eare hath not heard it,<note place="margin">1 Cor 2.9.</note> for it is no ſound; the heart cannot comprehend it, becauſe it muſt comprehend the heart; it cannot be fully apprehended by faith, nor attain'd by charity, becauſe it tranſcendeth our deſires.</p>
+            <p>To condemne us of fooliſhneſſe, which thinke here in this life to find contentment; O noe this life is a wilderneſſe, where be Ser<g ref="char:EOLhyphen"/>pents <label type="milestone">
+                  <seg type="milestoneunit">Uſe </seg>1</label> that will ſting us; this life is a gaole where is a dungion, and irons to excruciate us; this life is a time whrein ſin and Satan play their part; here we are Mariners, our haven is heaven; here we are Soul<g ref="char:EOLhyphen"/>diers, our conqueſt is death.</p>
+            <p>
+               <hi>To wait</hi> with <hi>Job all our appointed time till our change ſhall come:</hi> O let's ſigh, and long to be carried by the Angels into <hi>Abrahams</hi> boſome, <label type="milestone">
+                  <seg type="milestoneunit">Uſe </seg>2</label> to the coeleſtiall paradice; to the company of enumerable <hi>Saints, Patriarchs,</hi>
+               <note place="margin">Job. 14.14</note> and <hi>Prophets,</hi> and <hi>Martyrs,</hi> and to <hi>Jeſus Chriſt</hi> the Me<g ref="char:EOLhyphen"/>diator of the new Teſtament, and to the bloud of ſprinkling, that ſpeaks better things then that of <hi>Abell:</hi>
+               <note place="margin">Heb. 12.24.</note> you will ſay <hi>this is beſt of all,</hi> when you enjoy your inheritance immortall, and undefiled, which fadeth not, which is reſerved for you, when you reſt from your la<g ref="char:EOLhyphen"/>bours, and behold the glory of God; all the <hi>Arithmeticians</hi> in the world are not able to number the joyes of the Elect, all the <hi>Rhetori<g ref="char:EOLhyphen"/>cians</hi> are not able in fitting termes to expreſſe them, when you ſhall be arayed in white, having <hi>Crownes</hi> on your heads, and <hi>Palmes</hi> in your hands, when all teares ſhall be wiped from your eyes, and all ſorrowes removed from your hearts, when you ſhall ſerve him at his table, and eate in his kingdome, and with the foure and twenty <hi>Elders</hi> ſay, <hi>bleſ<g ref="char:EOLhyphen"/>ſing, and glory, and honour, and power, and might, be given to him that ſitteth upon the Throne for evermore.</hi>
+            </p>
+            <p>I have done with the words, now a few words, of this ſad occa<g ref="char:EOLhyphen"/>on, and then you ſhall be eaſed of me.</p>
+            <p>Touching now this Revered Genteleman even now interred before us, he was borne in Somerſet-ſhire, and had his firſt education in the then famous Schoole of Taunton-deane whereby Gods bleſſing, having made a commendable progreſſe in learning proportionable to his age to the beſt there, he was by God's good providence tranſlated to Lincolne Colledge in <hi>Oxford,</hi> where being Maſter of Arts, and
+<pb n="17" facs="tcp:59485:12"/>
+being knowne to be exquiſitly learned, was choſen Greek Reader to the Uuniverſity, and not long after proceeded Batchelour in Divinity. From Oxford by God's providence he was diſpoſed to be Rector of this Church, where he hath continued this fifty yeers, how he hath lived here, clouds of witneſſes can teſtifie, very painfull in his Miniſtry, very pious in his family, it being a little Church, wherein he conſtant<g ref="char:EOLhyphen"/>ly called his people to prayer twice a day, beſides his owne private de<g ref="char:EOLhyphen"/>votions; beſides his times which he obſerved duely in his ſtudy, he had an excellent faculty, which with great labour, and delight he tooke in breeding up many young Gentelmen in his houſe, in good literature, all his time; how many Scholers hath he of his owne coſt, firſt bred-them up in his houſe, afterwards helpe to maintaine them in the Univerſity, and incurrage them, for and in the Miniſtry, my ſelfe who have knowne his life and converſation, for above forty yeers, muſt thankefully acknowledge, and bleſſe God for him, be<g ref="char:EOLhyphen"/>ſides many other Miniſters borne not farre from this place, that have reaped the fruits of his love, in this kind; it could have been wiſhed that this laſt ſervice to him, might have been performed, by ſome more able and eminent Perſon then my ſelfe: But <hi>tennitatem ingenii mallem declarare, quam officium perchariſſimo maecenati detrahere,</hi> it being the laſt charge he gave me a little before his looſing. What ſhall I ſay now to you of his charge? as wee of the Miniſtry have loſt a wor<g ref="char:EOLhyphen"/>thy Oracle for learning and piety, ſo you have loſt a loving Paſtor, his deare Wife a tender Husband, his Children a provident Father, the poore a great Benefactor, the godly-diſpoſed here, have loſt a good helper that way, but certainly ſay, <hi>praetioſiſſimum monite perdi<g ref="char:EOLhyphen"/>dimus</hi> yet he is not loſt whom. <hi>Chriſt</hi> hath found, <hi>praemititur non amittitur,</hi> while he lived, all his deſires was the Curch might thrive; It's true his judgment was for Biſhops, but yet before theſe times he would to his freinds bewaile their abuſes, and uſurpations upon the Church, and his frequent option was, that the Church might thrive <hi>O that Sion might fl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uriſh,</hi> a great lover of lectures he was by his pre<g ref="char:EOLhyphen"/>ſence while he was able, and drawing his Neighbours along wtih him as well as his family, and by his practiſe, having borne a part in Marleborough lecture for above thirty yeeres, a great peace-maker too, not only in his owne pariſh, but in the country, yea he often, payd money out of his owne purſe to prevent ſuits in law, and to make men be friends, ſuch an ingenious mildneſſe he was indued
+<pb n="18" facs="tcp:59485:13" rendition="simple:additions"/>
+with his gravity that he was honoured of the beſt, and feared of the worſt, but loved of all.</p>
+            <p>For you my loving freinds of <hi>Chilton</hi> I hope, and feare; I hope though this body be dead, his memory ſhall live with you, yea his preaching ſhall live in you; yea his example, and good workes ſhall live in you; But I feare you, and the poore among you, and the perplexed conſciences among you, will miſſe him more ſeven yerars hence, then yet you doe; But I ſee the floud-gates are open, and the ſight of your affecttionate teares, moving my ſluces too, cauſe me to <hi>retrahere vela orationis,</hi> to contract my ſpeech, (though I can never ſpeake enough of this ſubject of our imitation) I ſhall there<g ref="char:EOLhyphen"/>fore ſpeake a few more words, to whom this loſſe more ſpcially con<g ref="char:EOLhyphen"/>cernes,<note place="margin">Theſ. 4.13</note> and then I have done, <hi>not to be ſory as thoſe that have noe hope for them that ſleep in Chriſt,</hi> I doe not forbid you to mourne for the dead, for it s the ſigne of a reprobate, to be without naturall affe<g ref="char:EOLhyphen"/>ction, but beſeech you to afford your ſelves the comforts of faith, and take heed of immoderate greiving which is forbidden in nature, which teacheth all things, in reaſon which teacheth all men, in Reli<g ref="char:EOLhyphen"/>gion, which teacheth all Chriſtians; in nature; for the eye is (as A<g ref="char:EOLhyphen"/>natomiſt obſerve) full of twice as many dry skins, like ſluces to damme up the courſe of teares, as it hath moiſt chryſtiline humorus like channels to let them forth, for if all the eye were all a moiſt humour,<note place="margin">Prov. 27.</note> there would be no ſeing. Secondly in reaſon for every too much is a fault: Firſt <hi>it's not good,</hi> ſaith <hi>Salomon to eate too much hony,</hi> ſure then it's not good to eate to much gall, for what's greife imo<g ref="char:EOLhyphen"/>derate but gall,<note place="margin">Prov. 17.22.</note> and wormwood? Thirdly in Religion for trew ſor<g ref="char:EOLhyphen"/>row drieth up the bones, for why doth God give the holy ſpirit which is the onely comforter, a good conſcience, which is a continuall feaſt, the holy Scripture which is a ſecond paradice, a lively faith whereby we have peace with God, but to inferre that they have no ſpirit, no conſcience, no Scripture, no faith in them that pierce their hearts with too much greife; I muſt not forget, neyther can you, with what <hi>Job</hi> like pacience he indured his ſickneſſe, nor what excellent counſels he gave to all that were about him, how willing he was to reſigne himſelfe into his redeemers hand, its the unfayned deſire of my heart when the Lord ſhall call me, <hi>that I may dye the death of this righteous one, and that my latter end may be like to his.</hi> You have hard what I have ſaid, and the Lord give you underſtanding in all things.</p>
+            <closer>LA<g ref="char:V">Ʋ</g>S DEO.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
